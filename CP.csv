@@ -1,0 +1,216 @@
+﻿s_id,Name,gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,specialisation,mba_p,workex,etest_p,status,Salary
+1,Rick Hansen,M,67,Others,91,Others,Commerce,58,Sci&Tech,Mkt&HR,58.8,No,55,Placed,270000
+2,Justin Ritter,M,79.33,Central,78.33,Others,Science,77.48,Sci&Tech,Mkt&Fin,66.28,Yes,86.5,Placed,200000
+3,Craig Reiter,M,65,Central,68,Central,Arts,64,Comm&Mgmt,Mkt&Fin,57.8,No,75,Placed,250000
+4,Katherine Murray,M,56,Central,52,Central,Science,52,Sci&Tech,Mkt&HR,59.43,No,66,Not Placed,0
+5,Rick Hansen,M,85.8,Central,73.6,Central,Commerce,73.3,Comm&Mgmt,Mkt&Fin,55.5,No,96.8,Placed,425000
+6,Jim Mitchum,M,55,Others,49.8,Others,Science,67.25,Sci&Tech,Mkt&Fin,51.58,Yes,55,Not Placed,0
+7,Toby Swindell,F,46,Others,49.2,Others,Commerce,79,Comm&Mgmt,Mkt&Fin,53.29,No,74.28,Not Placed,0
+8,Mick Brown,M,82,Central,64,Central,Science,66,Sci&Tech,Mkt&Fin,62.14,Yes,67,Placed,252000
+9,Jane Waco,M,73,Central,79,Central,Commerce,72,Comm&Mgmt,Mkt&Fin,61.29,No,91.34,Placed,231000
+10,Joseph Holt,M,58,Central,70,Central,Commerce,61,Comm&Mgmt,Mkt&Fin,52.21,No,0,Not Placed,0
+11,Greg Maxwell,M,58,Central,61,Central,Commerce,60,Comm&Mgmt,Mkt&HR,60.85,Yes,62,Placed,260000
+12,Anthony Jacobs,M,69.6,Central,68.4,Central,Commerce,78.3,Comm&Mgmt,Mkt&Fin,63.7,Yes,60,Placed,250000
+13,Magdelene Morse,F,47,Central,55,Others,Science,65,Comm&Mgmt,Mkt&HR,65.04,No,62,Not Placed,0
+14,Vicky Freymann,F,77,Central,87,Central,Commerce,59,Comm&Mgmt,Mkt&Fin,68.63,No,68,Placed,218000
+15,Peter Fuller,M,62,Central,47,Central,Commerce,50,Comm&Mgmt,Mkt&HR,54.96,No,76,Not Placed,0
+16,Ben Peterman,F,65,Central,75,Central,Commerce,69,Comm&Mgmt,Mkt&Fin,64.66,Yes,72,Placed,200000
+17,Thomas Boland,M,63,Central,66.2,Central,Commerce,65.6,Comm&Mgmt,Mkt&Fin,62.54,Yes,60,Placed,300000
+18,Patrick Jones,F,55,Central,67,Central,Commerce,64,Comm&Mgmt,Mkt&Fin,67.28,No,60,Not Placed,0
+19,Jim Sink,F,63,Central,66,Central,Commerce,64,Comm&Mgmt,Mkt&HR,64.08,No,68,Not Placed,0
+20,Ritsa Hightower,M,60,Others,67,Others,Arts,70,Comm&Mgmt,Mkt&Fin,77.89,Yes,50.48,Placed,236000
+21,Ann Blume,M,62,Others,65,Others,Commerce,66,Comm&Mgmt,Mkt&HR,56.7,No,51,Placed,265000
+22,Sue Ann Reed,F,79,Others,76,Others,Commerce,85,Comm&Mgmt,Mkt&Fin,69.06,No,0,Placed,393000
+23,Jason Klamczynski,F,69.8,Others,60.8,Others,Science,72.23,Sci&Tech,Mkt&HR,68.81,No,55.53,Placed,360000
+24,Laurel Beltran,F,77.4,Others,60,Others,Science,64.74,Sci&Tech,Mkt&Fin,63.62,Yes,92,Placed,300000
+25,Naresj Patel,M,76.5,Others,97.7,Others,Science,78.86,Sci&Tech,Mkt&Fin,74.01,No,97.4,Placed,360000
+26,Valerie Dominguez,F,52.58,Others,54.6,Central,Commerce,50.2,Comm&Mgmt,Mkt&Fin,65.33,Yes,76,Not Placed,0
+27,Phillip Breyer,M,71,Others,79,Others,Commerce,66,Comm&Mgmt,Mkt&Fin,57.55,Yes,94,Placed,240000
+28,Eugene Barchas,M,63,Others,67,Others,Commerce,66,Comm&Mgmt,Mkt&HR,57.69,No,68,Placed,265000
+29,Karen Ferguson,M,76.76,Others,76.5,Others,Commerce,67.5,Comm&Mgmt,Mkt&Fin,64.15,Yes,73.35,Placed,350000
+30,Benjamin Patterson,M,62,Central,67,Central,Commerce,58,Comm&Mgmt,Mkt&Fin,51.29,No,77,Not Placed,0
+31,Rick Reed,F,64,Central,73.5,Central,Commerce,73,Comm&Mgmt,Mkt&HR,56.7,No,52,Placed,250000
+32,Bill Shonely,F,67,Central,53,Central,Science,65,Sci&Tech,Mkt&HR,58.32,No,64,Not Placed,0
+33,Joel Eaton,F,61,Central,81,Central,Commerce,66.4,Comm&Mgmt,Mkt&HR,62.21,No,50.89,Placed,278000
+34,Dave Poirier,F,87,Others,65,Others,Science,81,Comm&Mgmt,Mkt&Fin,72.78,Yes,88,Placed,260000
+35,Nora Preis,M,62,Others,51,Others,Science,52,Others,Mkt&HR,62.77,No,68.44,Not Placed,0
+36,Aaron Hawkins,F,69,Central,78,Central,Commerce,72,Comm&Mgmt,Mkt&HR,62.74,No,71,Placed,300000
+37,Darrin Martin,M,51,Central,44,Central,Commerce,57,Comm&Mgmt,Mkt&Fin,51.45,No,64,Not Placed,0
+38,Grant Thornton,F,79,Central,76,Central,Science,65.6,Sci&Tech,Mkt&HR,55.47,No,0,Placed,320000
+39,Patrick O'Donnell,F,73,Others,58,Others,Science,66,Comm&Mgmt,Mkt&HR,56.86,No,53.7,Placed,240000
+40,Dan Lawera,M,81,Others,68,Others,Science,64,Sci&Tech,Mkt&Fin,62.56,No,93,Placed,411000
+41,Joy Bell-,F,78,Central,77,Others,Commerce,80,Comm&Mgmt,Mkt&Fin,66.72,No,60,Placed,287000
+42,Barry Franz,F,74,Others,63.16,Others,Commerce,65,Comm&Mgmt,Mkt&HR,69.76,Yes,0,Not Placed,0
+43,Vivek Grady,M,49,Others,39,Central,Science,65,Others,Mkt&Fin,51.21,No,63,Not Placed,0
+44,Greg Tran,M,87,Others,87,Others,Commerce,68,Comm&Mgmt,Mkt&HR,62.9,No,95,Placed,300000
+45,Zuschuss Carroll,F,77,Others,73,Others,Commerce,81,Comm&Mgmt,Mkt&Fin,69.7,Yes,89,Placed,200000
+46,Sanjit Chand,F,76,Central,64,Central,Science,72,Sci&Tech,Mkt&HR,66.53,No,58,Not Placed,0
+47,Ellis Ballard,F,70.89,Others,71.98,Others,Science,65.6,Comm&Mgmt,Mkt&HR,71.63,No,68,Not Placed,0
+48,Arthur Prichep,M,63,Central,60,Central,Commerce,57,Comm&Mgmt,Mkt&Fin,54.55,Yes,78,Placed,204000
+49,Scott Williamson,M,63,Others,62,Others,Commerce,68,Comm&Mgmt,Mkt&Fin,62.46,No,64,Placed,250000
+50,John Huston,F,50,Others,37,Others,Arts,52,Others,Mkt&HR,56.11,No,65,Not Placed,0
+51,Lena Creighton,F,75.2,Central,73.2,Central,Science,68.4,Comm&Mgmt,Mkt&HR,62.98,No,65,Placed,200000
+52,Trudy Glocke,M,54.4,Central,61.12,Central,Commerce,56.2,Comm&Mgmt,Mkt&HR,62.65,No,0,Not Placed,0
+53,Harold Ryan,F,40.89,Others,45.83,Others,Commerce,53,Comm&Mgmt,Mkt&HR,65.49,No,71.2,Not Placed,0
+54,Phillip Breyer,M,80,Others,70,Others,Science,72,Sci&Tech,Mkt&HR,71.04,No,87,Placed,450000
+55,Deirdre Greer,F,74,Central,60,Others,Science,69,Comm&Mgmt,Mkt&HR,65.56,No,78,Placed,216000
+56,Sheri Gordon,M,60.4,Central,66.6,Others,Science,65,Comm&Mgmt,Mkt&HR,52.71,No,71,Placed,220000
+57,Fred Hopkins,M,63,Others,71.4,Others,Commerce,61.4,Comm&Mgmt,Mkt&Fin,66.88,No,68,Placed,240000
+58,Guy Phonely,M,68,Central,76,Central,Commerce,74,Comm&Mgmt,Mkt&Fin,63.59,No,80,Placed,360000
+59,Mitch Webber,M,74,Central,62,Others,Science,68,Comm&Mgmt,Mkt&Fin,57.99,No,74,Placed,268000
+60,Patrick O'Brill,M,52.6,Central,65.58,Others,Science,72.11,Sci&Tech,Mkt&Fin,56.66,No,57.6,Placed,265000
+61,Chuck Sachs,M,74,Central,70,Central,Science,72,Comm&Mgmt,Mkt&Fin,57.24,Yes,60,Placed,260000
+62,Keith Dawkins,M,84.2,Central,73.4,Central,Commerce,66.89,Comm&Mgmt,Mkt&Fin,62.48,No,61.6,Placed,300000
+63,Michael Stewart,F,86.5,Others,64.2,Others,Science,67.4,Sci&Tech,Mkt&Fin,59.69,No,59,Placed,240000
+64,Kimberly Carter,M,61,Others,70,Others,Commerce,64,Comm&Mgmt,Mkt&HR,59.5,No,68.5,Not Placed,0
+65,Denny Blanton,M,80,Others,73,Others,Commerce,75,Comm&Mgmt,Mkt&Fin,58.78,No,61,Placed,240000
+66,Jonathan Doherty,M,54,Others,47,Others,Science,57,Comm&Mgmt,Mkt&HR,57.1,No,89.69,Not Placed,0
+67,Dave Kipp,M,83,Others,74,Others,Science,66,Comm&Mgmt,Mkt&HR,58.46,No,68.92,Placed,275000
+68,Cari Sayre,M,80.92,Others,78.5,Others,Commerce,67,Comm&Mgmt,Mkt&Fin,60.99,No,68.71,Placed,275000
+69,Evan Minnotte,F,69.7,Central,47,Central,Commerce,72.7,Sci&Tech,Mkt&HR,59.24,No,79,Not Placed,0
+70,Dianna Wilson,M,73,Central,73,Central,Science,66,Sci&Tech,Mkt&Fin,68.07,Yes,0,Placed,275000
+71,Alan Schoenberger,M,82,Others,61,Others,Science,62,Sci&Tech,Mkt&Fin,65.45,No,89,Placed,360000
+72,Shui Tom,M,75,Others,70.29,Others,Commerce,71,Comm&Mgmt,Mkt&Fin,66.94,No,95,Placed,240000
+73,Barry Weirich,M,84.86,Others,67,Others,Science,78,Comm&Mgmt,Mkt&Fin,68.53,No,95.5,Placed,240000
+74,Laura Armstrong,M,64.6,Central,83.83,Others,Commerce,71.72,Comm&Mgmt,Mkt&Fin,59.75,No,86,Placed,218000
+75,Aimee Bixby,M,56.6,Central,64.8,Central,Commerce,70.2,Comm&Mgmt,Mkt&Fin,67.2,No,84.27,Placed,336000
+76,John Huston,F,59,Central,62,Others,Commerce,77.5,Comm&Mgmt,Mkt&HR,67,No,74,Not Placed,0
+77,Christopher Martinez,F,66.5,Others,70.4,Central,Arts,71.93,Comm&Mgmt,Mkt&Fin,64.27,No,61,Placed,230000
+78,Bobby Elias,M,64,Others,80,Others,Science,65,Sci&Tech,Mkt&Fin,57.65,Yes,69,Placed,500000
+79,Sam Zeldin,M,84,Others,90.9,Others,Science,64.5,Sci&Tech,Mkt&Fin,59.42,No,86.04,Placed,270000
+80,Raymond Messe,F,69,Central,62,Central,Science,66,Sci&Tech,Mkt&HR,67.99,No,75,Not Placed,0
+81,Harry Greene,F,69,Others,62,Others,Commerce,69,Comm&Mgmt,Mkt&HR,62.35,Yes,67,Placed,240000
+82,Dave Poirier,M,81.7,Others,63,Others,Science,67,Comm&Mgmt,Mkt&Fin,70.2,Yes,86,Placed,300000
+83,Andy Reiter,M,63,Central,67,Central,Commerce,74,Comm&Mgmt,Mkt&Fin,60.44,No,82,Not Placed,0
+84,Tom Prescott,M,84,Others,79,Others,Science,68,Sci&Tech,Mkt&Fin,66.69,Yes,84,Placed,300000
+85,Joy Bell-,M,70,Central,63,Others,Science,70,Sci&Tech,Mkt&Fin,62,Yes,55,Placed,300000
+86,Anne McFarland,F,83.84,Others,89.83,Others,Commerce,77.2,Comm&Mgmt,Mkt&Fin,76.18,Yes,78.74,Placed,400000
+87,Alejandro Ballentine,M,62,Others,63,Others,Commerce,64,Comm&Mgmt,Mkt&Fin,57.03,No,67,Placed,220000
+88,Rachel Payne,M,59.6,Central,51,Central,Science,60,Others,Mkt&HR,59.08,No,75,Not Placed,0
+89,Berenike Kampe,F,66,Central,62,Central,Commerce,73,Comm&Mgmt,Mkt&HR,64.36,No,58,Placed,210000
+90,Janet Martin,F,84,Others,75,Others,Science,69,Sci&Tech,Mkt&HR,62.36,Yes,62,Placed,210000
+91,Guy Phonely,F,85,Others,90,Others,Commerce,82,Comm&Mgmt,Mkt&Fin,68.03,No,92,Placed,300000
+92,Lindsay Williams,M,52,Central,57,Central,Commerce,50.8,Comm&Mgmt,Mkt&HR,62.79,No,67,Not Placed,0
+93,Nick Zandusky,F,60.23,Central,69,Central,Science,66,Comm&Mgmt,Mkt&Fin,59.47,No,72,Placed,230000
+94,Stuart Van,M,52,Central,62,Central,Commerce,54,Comm&Mgmt,Mkt&HR,55.41,No,72,Not Placed,0
+95,Steve Chapman,M,58,Central,62,Central,Commerce,64,Comm&Mgmt,Mkt&Fin,54.97,No,53.88,Placed,260000
+96,Noah Childs,M,73,Central,78,Others,Commerce,65,Comm&Mgmt,Mkt&Fin,62.16,Yes,95.46,Placed,420000
+97,Natalie Fritzler,F,76,Central,70,Central,Science,76,Comm&Mgmt,Mkt&Fin,64.44,Yes,66,Placed,300000
+98,Nick Zandusky,F,70.5,Central,62.5,Others,Commerce,61,Comm&Mgmt,Mkt&Fin,69.03,No,93.91,Not Placed,0
+99,Paul MacIntyre,F,69,Central,73,Central,Commerce,65,Comm&Mgmt,Mkt&Fin,57.31,No,70,Placed,220000
+100,Maria Zettner,M,54,Central,82,Others,Commerce,63,Sci&Tech,Mkt&Fin,59.47,No,50,Not Placed,0
+101,Henry MacAllister,F,45,Others,57,Others,Commerce,58,Comm&Mgmt,Mkt&HR,64.95,Yes,56.39,Not Placed,0
+102,Rick Wilson,M,63,Central,72,Central,Commerce,68,Comm&Mgmt,Mkt&HR,60.44,No,78,Placed,380000
+103,Logan Haushalter,F,77,Others,61,Others,Commerce,68,Comm&Mgmt,Mkt&Fin,61.31,Yes,57.5,Placed,300000
+104,Fred Hopkins,M,73,Central,78,Central,Science,73,Sci&Tech,Mkt&HR,65.83,Yes,85,Placed,240000
+105,Khloe Miller,M,69,Central,63,Others,Science,65,Comm&Mgmt,Mkt&HR,58.23,Yes,55,Placed,360000
+106,Patrick O'Donnell,M,59,Central,64,Others,Science,58,Sci&Tech,Mkt&HR,55.3,No,0,Not Placed,0
+107,Adam Bellavance,M,61.08,Others,50,Others,Science,54,Sci&Tech,Mkt&Fin,65.69,No,71,Not Placed,0
+108,Adam Bellavance,M,82,Others,90,Others,Commerce,83,Comm&Mgmt,Mkt&HR,73.52,No,0,Placed,200000
+109,Dave Brooks,M,61,Central,82,Central,Commerce,69,Comm&Mgmt,Mkt&Fin,58.31,No,84,Placed,300000
+110,Valerie Mitchum,M,52,Central,63,Others,Science,65,Sci&Tech,Mkt&HR,56.09,Yes,86,Not Placed,0
+111,Bill Shonely,F,69.5,Central,70,Central,Science,72,Sci&Tech,Mkt&HR,54.8,No,57.2,Placed,250000
+112,Don Miller,M,51,Others,54,Others,Science,61,Sci&Tech,Mkt&HR,60.64,No,60,Not Placed,0
+113,Neoma Murray,M,58,Others,61,Others,Commerce,61,Comm&Mgmt,Mkt&HR,53.94,No,58,Placed,250000
+114,Lena Creighton,F,73.96,Others,79,Others,Commerce,67,Comm&Mgmt,Mkt&Fin,63.08,No,72.15,Placed,280000
+115,Rose O'Brian,M,65,Central,68,Others,Science,69,Comm&Mgmt,Mkt&HR,55.01,No,53.7,Placed,250000
+116,Sarah Brown,F,73,Others,63,Others,Science,66,Comm&Mgmt,Mkt&Fin,60.5,No,89,Placed,216000
+117,Erin Mull,M,68.2,Central,72.8,Central,Commerce,66.6,Comm&Mgmt,Mkt&Fin,70.85,Yes,96,Placed,300000
+118,Roland Schwarz,M,77,Others,75,Others,Science,73,Sci&Tech,Mkt&Fin,67.05,No,80,Placed,240000
+119,Odella Nelson,M,76,Central,80,Central,Science,78,Sci&Tech,Mkt&HR,70.48,Yes,97,Placed,276000
+120,Vivek Sundaresam,M,60.8,Central,68.4,Central,Commerce,64.6,Comm&Mgmt,Mkt&Fin,64.34,Yes,82.66,Placed,940000
+121,Chad McGuire,M,58,Others,40,Others,Science,59,Comm&Mgmt,Mkt&HR,58.81,No,73,Not Placed,0
+122,Tom Boeckenhauer,F,64,Central,67,Others,Science,69.6,Sci&Tech,Mkt&HR,71.49,Yes,55.67,Placed,250000
+123,Adrian Barton,F,66.5,Central,66.8,Central,Arts,69.3,Comm&Mgmt,Mkt&Fin,71,Yes,80.4,Placed,236000
+124,Jason Klamczynski,M,74,Others,59,Others,Commerce,73,Comm&Mgmt,Mkt&HR,56.7,Yes,60,Placed,240000
+125,Rachel Payne,M,67,Central,71,Central,Science,64.33,Others,Mkt&HR,61.26,Yes,64,Placed,250000
+126,Don Weiss,F,84,Central,73,Central,Commerce,73,Comm&Mgmt,Mkt&Fin,73.33,No,75,Placed,350000
+127,Penelope Sewall,F,79,Others,61,Others,Science,75.5,Sci&Tech,Mkt&Fin,68.2,Yes,70,Placed,210000
+128,Christopher Conant,F,72,Others,60,Others,Science,69,Comm&Mgmt,Mkt&HR,58.4,No,55.5,Placed,250000
+129,Toby Carlisle,M,80.4,Central,73.4,Central,Science,77.72,Sci&Tech,Mkt&HR,76.26,Yes,81.2,Placed,400000
+130,Gary McGarr,M,76.7,Central,89.7,Others,Commerce,66,Comm&Mgmt,Mkt&Fin,68.55,Yes,90,Placed,250000
+131,Stuart Van,M,62,Central,65,Others,Commerce,60,Comm&Mgmt,Mkt&Fin,64.15,No,84,Not Placed,0
+132,Michael Moore,F,74.9,Others,57,Others,Science,62,Others,Mkt&Fin,60.78,Yes,80,Placed,360000
+133,Julie Kriz,M,67,Others,68,Others,Commerce,64,Comm&Mgmt,Mkt&HR,53.49,Yes,74.4,Placed,300000
+134,Evan Minnotte,M,73,Central,64,Others,Commerce,77,Comm&Mgmt,Mkt&HR,60.98,Yes,65,Placed,250000
+135,Don Jones,F,77.44,Central,92,Others,Commerce,72,Comm&Mgmt,Mkt&Fin,67.13,Yes,94,Placed,250000
+136,Paul MacIntyre,F,72,Central,56,Others,Science,69,Comm&Mgmt,Mkt&HR,65.63,No,55.6,Placed,200000
+137,Alyssa Tate,F,47,Central,59,Central,Arts,64,Comm&Mgmt,Mkt&Fin,61.58,No,78,Not Placed,0
+138,Aaron Bergman,M,67,Others,63,Central,Commerce,72,Comm&Mgmt,Mkt&HR,60.41,No,56,Placed,225000
+139,Resi Pölking,F,82,Others,64,Others,Science,73,Sci&Tech,Mkt&Fin,71.77,Yes,96,Placed,250000
+140,Max Jones,M,77,Central,70,Central,Commerce,59,Comm&Mgmt,Mkt&Fin,54.43,Yes,58,Placed,220000
+141,Paul Van Hugh,M,65,Central,64.8,Others,Commerce,69.5,Comm&Mgmt,Mkt&Fin,56.94,Yes,56,Placed,265000
+142,Sean Braxton,M,66,Central,64,Central,Science,60,Comm&Mgmt,Mkt&HR,61.9,No,60,Not Placed,0
+143,Sally Matthias,M,85,Central,60,Others,Science,73.43,Sci&Tech,Mkt&Fin,61.29,Yes,60,Placed,260000
+144,Karen Ferguson,M,77.67,Others,64.89,Others,Commerce,70.67,Comm&Mgmt,Mkt&Fin,60.39,No,89,Placed,300000
+145,Katharine Harms,M,52,Others,50,Others,Arts,61,Comm&Mgmt,Mkt&Fin,58.52,No,60,Not Placed,0
+146,Mike Pelletier,M,89.4,Others,65.66,Others,Science,71.25,Sci&Tech,Mkt&HR,63.23,No,72,Placed,400000
+147,Lisa Hazard,M,62,Central,63,Others,Science,66,Comm&Mgmt,Mkt&HR,55.14,No,85,Placed,233000
+148,Natalie DeCherney,M,70,Central,74,Central,Commerce,65,Comm&Mgmt,Mkt&Fin,62.28,No,83,Placed,300000
+149,Corey Roper,F,77,Central,86,Central,Arts,56,Others,Mkt&Fin,64.08,No,57,Placed,240000
+150,Noah Childs,M,44,Central,58,Central,Arts,55,Comm&Mgmt,Mkt&HR,58.54,Yes,64.25,Not Placed,0
+151,Greg Matthias,M,71,Central,58.66,Central,Science,58,Sci&Tech,Mkt&Fin,61.3,Yes,56,Placed,690000
+152,Ryan Akin,M,65,Central,65,Central,Commerce,75,Comm&Mgmt,Mkt&Fin,58.87,No,83,Placed,270000
+153,Dave Brooks,F,75.4,Others,60.5,Central,Science,84,Sci&Tech,Mkt&Fin,65.25,No,98,Placed,240000
+154,Bart Watters,M,49,Others,59,Others,Science,65,Sci&Tech,Mkt&Fin,62.48,Yes,86,Placed,340000
+155,Roland Fjeld,M,53,Central,63,Others,Science,60,Comm&Mgmt,Mkt&Fin,53.2,Yes,70,Placed,250000
+156,John Huston,M,51.57,Others,74.66,Others,Commerce,59.9,Comm&Mgmt,Mkt&HR,65.99,Yes,56.15,Not Placed,0
+157,Anna Gayman,M,84.2,Central,69.4,Central,Science,65,Sci&Tech,Mkt&HR,52.72,Yes,80,Placed,255000
+158,Dario Medina,M,66.5,Central,62.5,Central,Commerce,60.9,Comm&Mgmt,Mkt&Fin,55.03,No,93.4,Placed,300000
+159,Karen Daniels,M,67,Others,63,Others,Science,64,Sci&Tech,Mkt&Fin,61.87,No,0,Not Placed,0
+160,Bill Eplett,M,52,Central,49,Others,Commerce,58,Comm&Mgmt,Mkt&HR,60.59,No,62,Not Placed,0
+161,Sean O'Donnell,M,87,Central,74,Central,Science,65,Sci&Tech,Mkt&HR,72.29,Yes,75,Placed,300000
+162,Damala Kotsonis,M,55.6,Others,51,Others,Commerce,57.5,Comm&Mgmt,Mkt&HR,62.72,No,57.63,Not Placed,0
+163,Liz Carlisle,M,74.2,Central,87.6,Others,Commerce,77.25,Comm&Mgmt,Mkt&Fin,66.06,Yes,75.2,Placed,285000
+164,Phillip Breyer,M,63,Others,67,Others,Science,64,Sci&Tech,Mkt&Fin,66.46,No,75,Placed,500000
+165,Claire Gute,F,67.16,Central,72.5,Central,Commerce,63.35,Comm&Mgmt,Mkt&Fin,65.52,No,53.04,Placed,250000
+166,Toby Braunhardt,F,63.3,Central,78.33,Others,Commerce,74,Comm&Mgmt,Mkt&Fin,74.56,No,80,Not Placed,0
+167,Hunter Glantz,M,62,Others,62,Others,Commerce,60,Comm&Mgmt,Mkt&HR,52.38,Yes,63,Placed,240000
+168,Alan Dominguez,M,67.9,Others,62,Others,Science,67,Sci&Tech,Mkt&Fin,75.71,Yes,58.1,Not Placed,0
+169,Becky Pak,F,48,Central,51,Central,Commerce,58,Comm&Mgmt,Mkt&HR,58.79,Yes,60,Not Placed,0
+170,Andrew Allen,M,59.96,Others,42.16,Others,Science,61.26,Sci&Tech,Mkt&HR,65.48,No,54.48,Not Placed,0
+171,Rob Lucas,F,63.4,Others,67.2,Others,Commerce,60,Comm&Mgmt,Mkt&HR,69.28,No,58.06,Not Placed,0
+172,Cindy Stewart,M,80,Others,80,Others,Commerce,72,Comm&Mgmt,Mkt&Fin,66.04,Yes,0,Placed,290000
+173,Scot Wooten,M,73,Others,58,Others,Commerce,56,Comm&Mgmt,Mkt&HR,52.64,No,84,Placed,300000
+174,Tom Ashbrook,F,52,Others,52,Others,Science,55,Sci&Tech,Mkt&HR,59.32,No,67,Not Placed,0
+175,Bart Watters,M,73.24,Others,50.83,Others,Science,64.27,Sci&Tech,Mkt&Fin,66.23,Yes,64,Placed,500000
+176,Yoseph Carroll,M,63,Others,62,Others,Science,65,Sci&Tech,Mkt&HR,60.69,No,87.5,Not Placed,0
+177,Jill Matthias,F,59,Central,60,Others,Commerce,56,Comm&Mgmt,Mkt&HR,57.9,No,55,Placed,220000
+178,Maria Zettner,F,73,Central,97,Others,Commerce,79,Comm&Mgmt,Mkt&Fin,70.81,Yes,89,Placed,650000
+179,Jason Fortune-,M,68,Others,56,Others,Science,68,Sci&Tech,Mkt&HR,68.07,No,73,Placed,350000
+180,John Lee,F,77.8,Central,64,Central,Science,64.2,Sci&Tech,Mkt&HR,72.14,No,75.5,Not Placed,0
+181,Don Jones,M,65,Central,71.5,Others,Commerce,62.8,Comm&Mgmt,Mkt&Fin,56.6,Yes,57,Placed,265000
+182,Monica Federle,M,62,Central,60.33,Others,Science,64.21,Sci&Tech,Mkt&HR,60.02,No,63,Not Placed,0
+183,Toby Carlisle,M,52,Others,65,Others,Arts,57,Others,Mkt&Fin,59.81,Yes,75,Not Placed,0
+184,Jim Epp,M,65,Central,77,Central,Commerce,69,Comm&Mgmt,Mkt&HR,61.82,No,60,Placed,276000
+185,Christine Phan,F,56.28,Others,62.83,Others,Commerce,59.79,Comm&Mgmt,Mkt&HR,57.29,No,60,Not Placed,0
+186,Eugene Hildebrand,F,88,Central,72,Central,Science,78,Others,Mkt&HR,71.43,No,82,Placed,252000
+187,Nat Carroll,F,52,Central,64,Central,Commerce,61,Comm&Mgmt,Mkt&Fin,62.93,No,55,Not Placed,0
+188,Barry Franz,M,78.5,Central,65.5,Central,Science,67,Sci&Tech,Mkt&Fin,64.86,Yes,95,Placed,280000
+189,Joy Smith,M,61.8,Others,47,Others,Commerce,54.38,Comm&Mgmt,Mkt&Fin,56.13,No,57,Not Placed,0
+190,Alice McCarthy,F,54,Central,77.6,Others,Commerce,69.2,Comm&Mgmt,Mkt&Fin,66.94,No,95.65,Not Placed,0
+191,Jamie Frazer,F,64,Others,70.2,Central,Commerce,61,Comm&Mgmt,Mkt&Fin,62.5,No,50,Not Placed,0
+192,Aaron Bergman,M,67,Others,61,Central,Science,72,Comm&Mgmt,Mkt&Fin,61.01,No,72,Placed,264000
+193,James Galang,M,65.2,Central,61.4,Central,Commerce,64.8,Comm&Mgmt,Mkt&Fin,57.34,Yes,93.4,Placed,270000
+194,Dennis Pardue,F,60,Central,63,Central,Arts,56,Others,Mkt&HR,56.63,Yes,80,Placed,300000
+195,Alex Grayson,M,52,Others,55,Others,Commerce,56.3,Comm&Mgmt,Mkt&Fin,64.74,No,59,Not Placed,0
+196,Grace Kelly,M,66,Central,76,Central,Commerce,72,Comm&Mgmt,Mkt&HR,58.95,Yes,84,Placed,275000
+197,Neil Französisch,M,72,Others,63,Others,Science,77.5,Sci&Tech,Mkt&Fin,54.48,Yes,78,Placed,250000
+198,Yoseph Carroll,F,83.96,Others,53,Others,Science,91,Sci&Tech,Mkt&HR,69.71,No,0,Placed,260000
+199,Daniel Raglin,F,67,Central,70,Central,Commerce,65,Others,Mkt&HR,71.96,No,88,Not Placed,0
+200,Nona Balk,M,69,Others,65,Others,Commerce,57,Comm&Mgmt,Mkt&HR,55.8,No,73,Placed,265000
+201,Nathan Mautz,M,69,Others,60,Others,Commerce,65,Comm&Mgmt,Mkt&Fin,52.81,No,87.55,Placed,300000
+202,Tom Ashbrook,M,54.2,Central,63,Others,Science,58,Comm&Mgmt,Mkt&HR,58.44,No,79,Not Placed,0
+203,Nora Paige,M,70,Central,63,Central,Science,66,Sci&Tech,Mkt&HR,60.11,No,61.28,Placed,240000
+204,Shahid Collister,M,55.68,Others,61.33,Others,Commerce,56.87,Comm&Mgmt,Mkt&HR,58.3,No,66,Placed,260000
+205,Pete Armstrong,F,74,Others,73,Others,Commerce,73,Comm&Mgmt,Mkt&Fin,67.69,Yes,80,Placed,210000
+206,Rob Beeghly,M,61,Others,62,Others,Commerce,65,Comm&Mgmt,Mkt&Fin,56.81,No,62,Placed,250000
+207,Steven Roelle,M,41,Central,42,Central,Science,60,Comm&Mgmt,Mkt&Fin,53.39,No,97,Not Placed,0
+208,Rick Huthwaite,M,83.33,Central,78,Others,Commerce,61,Comm&Mgmt,Mkt&Fin,71.55,Yes,88.56,Placed,300000
+209,Larry Hughes,F,43,Central,60,Others,Science,65,Comm&Mgmt,Mkt&HR,62.92,No,92.66,Not Placed,0
+210,James Galang,M,62,Central,72,Central,Commerce,65,Comm&Mgmt,Mkt&Fin,56.49,No,67,Placed,216000
+211,Ken Black,M,80.6,Others,82,Others,Commerce,77.6,Comm&Mgmt,Mkt&Fin,74.49,No,91,Placed,400000
+212,Logan Haushalter,M,58,Others,60,Others,Science,72,Sci&Tech,Mkt&Fin,53.62,No,74,Placed,275000
+213,Eleni McCrary,M,67,Others,67,Others,Commerce,73,Comm&Mgmt,Mkt&Fin,69.72,Yes,59,Placed,295000
+214,Mary Zewe,F,74,Others,66,Others,Commerce,58,Comm&Mgmt,Mkt&HR,60.23,No,0,Placed,204000
+215,Kent Will,M,62,Central,58,Others,Science,53,Comm&Mgmt,Mkt&HR,60.22,No,89,Not Placed,0
